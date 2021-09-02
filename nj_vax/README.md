@@ -1,4 +1,4 @@
-# find_my_vax
+# nj_vax
 
 A new Flutter project.
 
